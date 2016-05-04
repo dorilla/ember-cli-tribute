@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-tribute",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.0.1",
+  "description": "Ember Component wrapper for Tribute.js.",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -39,7 +39,11 @@
     "loader.js": "^4.0.1"
   },
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "tribute",
+    "tributejs",
+    "tribute.js",
+    "ember-cli-tribute"
   ],
   "dependencies": {
     "ember-cli-babel": "^5.1.6"
